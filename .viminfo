@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1728537316,,"wq"
+|2,0,1728542187,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,34 @@
 # Registers:
 
 # File marks:
-'0  200  0  ~/blockgame.html
-|4,48,200,0,1728537316,"~/blockgame.html"
+'0  4  0  ~/Dockerfile
+|4,48,4,0,1728542187,"~/Dockerfile"
+'1  200  0  ~/blockgame.html
+|4,49,200,0,1728537316,"~/blockgame.html"
 
 # Jumplist (newest first):
+-'  4  0  ~/Dockerfile
+|4,39,4,0,1728542187,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1728541685,"~/Dockerfile"
+-'  200  0  ~/blockgame.html
+|4,39,200,0,1728537316,"~/blockgame.html"
 -'  200  0  ~/blockgame.html
 |4,39,200,0,1728537316,"~/blockgame.html"
 -'  1  0  ~/blockgame.html
 |4,39,1,0,1728537065,"~/blockgame.html"
+-'  1  0  ~/blockgame.html
+|4,39,1,0,1728537065,"~/blockgame.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/Dockerfile
+	*	1728542186	0
+	"	4	0
+	^	4	0
+	.	5	0
+	+	4	41
+	+	5	0
 
 > ~/blockgame.html
 	*	1728537315	0

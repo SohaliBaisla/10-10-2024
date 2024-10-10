@@ -19,7 +19,7 @@ pipeline {
             steps {
                 script {
                     // Login to Docker Hub
-                    docker.withRegistry('https://index.docker.io/v1/', 'dockerhub-credentials') {
+                    docker.withRegistry('https://index.docker.io/v1/', 'dockercreds') {
                         // Push the image
                         docker.image('sohali/blockgame').push()
                     }

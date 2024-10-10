@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1728544372,,"wq"
+|2,0,1728544627,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,40 @@
 # Registers:
 
 # File marks:
-'0  39  0  ~/jenkins
-|4,48,39,0,1728544372,"~/jenkins"
-'1  4  0  ~/Dockerfile
-|4,49,4,0,1728542187,"~/Dockerfile"
-'2  200  0  ~/blockgame.html
-|4,50,200,0,1728537316,"~/blockgame.html"
+'0  22  82  ~/jenkins
+|4,48,22,82,1728544627,"~/jenkins"
+'1  39  0  ~/jenkins
+|4,49,39,0,1728544372,"~/jenkins"
+'2  39  0  ~/jenkins
+|4,50,39,0,1728544372,"~/jenkins"
+'3  4  0  ~/Dockerfile
+|4,51,4,0,1728542187,"~/Dockerfile"
+'4  200  0  ~/blockgame.html
+|4,52,200,0,1728537316,"~/blockgame.html"
 
 # Jumplist (newest first):
+-'  22  82  ~/jenkins
+|4,39,22,82,1728544627,"~/jenkins"
+-'  39  0  ~/jenkins
+|4,39,39,0,1728544583,"~/jenkins"
 -'  39  0  ~/jenkins
 |4,39,39,0,1728544372,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1728544358,"~/jenkins"
 -'  1  0  ~/jenkins
 |4,39,1,0,1728544358,"~/jenkins"
 -'  4  0  ~/Dockerfile
 |4,39,4,0,1728542187,"~/Dockerfile"
 -'  4  0  ~/Dockerfile
 |4,39,4,0,1728542187,"~/Dockerfile"
+-'  4  0  ~/Dockerfile
+|4,39,4,0,1728542187,"~/Dockerfile"
+-'  4  0  ~/Dockerfile
+|4,39,4,0,1728542187,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1728541685,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1728541685,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1728541685,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
@@ -53,6 +71,22 @@
 |4,39,200,0,1728537316,"~/blockgame.html"
 -'  200  0  ~/blockgame.html
 |4,39,200,0,1728537316,"~/blockgame.html"
+-'  200  0  ~/blockgame.html
+|4,39,200,0,1728537316,"~/blockgame.html"
+-'  200  0  ~/blockgame.html
+|4,39,200,0,1728537316,"~/blockgame.html"
+-'  200  0  ~/blockgame.html
+|4,39,200,0,1728537316,"~/blockgame.html"
+-'  200  0  ~/blockgame.html
+|4,39,200,0,1728537316,"~/blockgame.html"
+-'  1  0  ~/blockgame.html
+|4,39,1,0,1728537065,"~/blockgame.html"
+-'  1  0  ~/blockgame.html
+|4,39,1,0,1728537065,"~/blockgame.html"
+-'  1  0  ~/blockgame.html
+|4,39,1,0,1728537065,"~/blockgame.html"
+-'  1  0  ~/blockgame.html
+|4,39,1,0,1728537065,"~/blockgame.html"
 -'  1  0  ~/blockgame.html
 |4,39,1,0,1728537065,"~/blockgame.html"
 -'  1  0  ~/blockgame.html
@@ -65,11 +99,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/jenkins
-	*	1728544371	0
-	"	39	0
-	^	39	0
-	.	38	1
+	*	1728544625	0
+	"	22	82
+	^	22	83
+	.	22	82
 	+	38	1
+	+	22	82
 
 > ~/Dockerfile
 	*	1728542186	0
